@@ -13,9 +13,6 @@ Voxaris Forge is a small development team building mods, plugins, and tools for 
 - ### Mods
   - [Fishing Frenzy](https://github.com/VoxarisForge/Fishing-Frenzy)
 
-- ### Plugins
-  - [Starport](https://github.com/VoxarisForge/Starport) (WIP)
-
 - ### Tools
   - [VoxyBot](https://github.com/VoxarisForge/VoxyBot)
 
